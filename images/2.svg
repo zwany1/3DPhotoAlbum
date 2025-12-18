@@ -1,0 +1,5 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#a8e6cf"/>
+  <circle cx="100" cy="100" r="80" fill="#dcedc1"/>
+  <text x="100" y="100" font-size="24" text-anchor="middle" dominant-baseline="middle" fill="#388e3c" font-weight="bold">生日快乐</text>
+</svg>
